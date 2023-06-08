@@ -11,7 +11,7 @@ This repository contains code and notebooks for a project focused on cryptocurre
 ### Introduction 
 <li>Cryptocurrency popularity necessitates accurate forecasting. There is a growing interest in cryptocurrencies as investment options. </li>
 <li>There is high volatility in cryptocurrency prices. </li>
-<li>Deep learning addresses volatility and nonlinear patterns./li>
+<li>Deep learning addresses volatility and nonlinear patterns.</li>
 <li>LSTM and GNN models improve prediction accuracy. </li>
 <li>Dynamic graphs with directed edges are used.</li>
 <li>A constructive evaluation method is employed.</li>
